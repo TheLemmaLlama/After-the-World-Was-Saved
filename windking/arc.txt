@@ -1,0 +1,41 @@
+
+
+windking/morality
+(+ valuespace/metaethics?)
+
+
+
+- wants to create a automated governer to prevent people from harming one another, and also to ensure that people who are suffering/dying 'unnaturally' (possibly through no fault of other people) are helped/taken care of
+- construct a model of ethics to enforce
+- starting from a base of happiness-maximizing consequentialism, derives practical norms towards freedom (as ppl naturally pursue what makes them happy) modulo when sacrificing some freedom fixes great suffering (e.g. making someone save a drowning child, stopping others from hurting ppl)(utility calculations/when is the tradeoff worth it?). kind of contrived/cobbled together
+- but also secrets; hiding things and manipulating people for their own good - the whole point of the windking in a way is to let the people not have to worry about watching their own backs or put effort into sustaining a safe (social) environment
+- sigma wants to make a windking, cleria wants to be the windking^, if only for a while (first overtly via misosis coup, then covertly via secretly helping people and fixing things for them as much as she can)
+- sigma eventually gravitate towards agency-maximizing consequentialism, as he learns from experiences (others' problems, + where it lead cleria) and also refines his theory:
+* the infohazard problem; can something be moral, yet be immoral to say it's moral? happiness-maximizing consequentialism implies yes. again, secrets. (sigma wants to see if he can find a [meta-coherent??] morality)(before AMC, he goes though e.g. deontologies where yes maximize happiness but modulo a prior sacred rule of 'no lying' (and maybe 'no positive obligations', to patch some other stuff like unintended consequences of 'government intervention'/making ppl help others))
+* locally psychologically egoist; disconnect here - prioritise agency or happiness? (to be chaotic or be good?)
+
+
+
+
+
+^ (after cleria reveal?)
+- cleria talks about how she can be the power behind the windking; then the problem would be reduced to making her an anonymous influence and be prevented from enjoying life in any way so there's no incentive for her to use her power for self gain or self-aggrandizement. also a mechanism to punish her and make her suffer if someone is dissatisfied with her management
+- sigma is very sad that cleria wants this, and naturally refuses
+- (this is essentially the idea behind the clergy of this world, with their vows of poverty chastity etc to disincentivize them from using their power for self gain, taken to its logical conclusion?)
+- so plots exploring this history and intentions behind the clergy, and how it falls short (and clergy end up abusing their powers for (e.g. reputational, if not 'material'*)self-gain anyway)(*tho social capital is material capital, so it often ends up translating to material gain anyway; but some people are content with ego boosts without material luxury and in fact may find material luxury to undermine the quality of the ego boost)
+
+
+
+
+
+
+
+- valuespace; a recurring area in the 'holes in reality' left after misosis incident?
+- does it look like a manifold with many local minima, or a space of points and arrows? both? or shifts between the two?
+
+
+
+
+
+
+
